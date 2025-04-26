@@ -1,0 +1,23 @@
+[
+	// switch to next and previous file
+	{ "keys": ["ctrl+right"], "command": "next_view" },
+	{ "keys": ["ctrl+shift+right"], "command": "next_view", "args": {"extend": true} },
+	{ "keys": ["ctrl+left"], "command": "prev_view" },
+	{ "keys": ["ctrl+shift+left"], "command": "prev_view", "args": {"extend": true} },
+	// move line up and down
+	{ "keys": ["alt+up"], "command": "swap_line_up" },
+	{ "keys": ["alt+down"], "command": "swap_line_down" },
+	// toggle sidebar
+	{ "keys": ["ctrl+b"], "command": "toggle_side_bar" },
+	// Hover Popup
+	{
+		"keys": ["ctrl+shift+i"],
+		"command": "lsp_hover",
+		"context": [{"key": "lsp.session_with_capability", "operand": "hoverProvider"}]
+	},
+	// Goto Diagnostic in Project
+	{
+		"keys": ["ctrl+shift+o"],
+		"command": "lsp_goto_diagnostic"
+	},
+]

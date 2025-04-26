@@ -1,0 +1,7 @@
+// Settings in here override those in "LSP-jdtls/LSP-jdtls.sublime-settings"
+{
+	"settings": {
+        // Specifies the folder path to the JDK (17 or more recent) used to launch the Java Language Server.
+        "java.jdt.ls.java.home": "/usr/lib/jvm/jdk-21.0.5-oracle-x64",
+    }
+}

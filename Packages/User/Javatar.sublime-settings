@@ -1,0 +1,20 @@
+{
+	"message_id": 20,
+	"project_data":
+	{
+		"2":
+		{
+			"folders":
+			[
+				{
+					"path": "/home/ali/Code/Java/practice",
+				}
+			],
+		},
+		"4": null,
+	},
+	"jdk_version":
+	{
+		"use": "",
+	},
+}

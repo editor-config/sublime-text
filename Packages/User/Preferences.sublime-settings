@@ -1,0 +1,26 @@
+{
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+	// theme
+	"theme": "Monokai Pro (Filter Spectrum).sublime-theme",
+	"color_scheme": "Monokai Pro (Filter Spectrum).sublime-color-scheme",
+	"font_size": 13,
+	"font_face": "JetBrains Mono",
+	// These settings control the size of the caret
+	"caret_extra_bottom": 0,
+	"caret_extra_top": 0,
+	"caret_extra_width": 1,
+
+	// Valid values are "smooth", "phase", "blink" and "solid". Previous
+	// versions of Sublime Text used "smooth" by default.
+	"caret_style": "smooth",	
+	
+	// Enable auto complete to be triggered automatically when typing.
+	"auto_complete": true,
+
+	"index_files": true,
+	// auto save
+	"save_on_focus_lost": true,
+}

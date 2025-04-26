@@ -1,0 +1,18 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"EclipseJavaFormatter",
+		"JavaIME",
+		"LSP",
+		"LSP-jdtls",
+		"LSP-typescript",
+		"Package Control",
+		"Reindent on save",
+		"Terminal",
+		"Theme - Monokai Pro",
+	],
+}
