@@ -1,0 +1,9 @@
+{
+	"rules": [
+		{
+			"selector": "source.ts",
+			"cmd": ["prettierd", "--stdin-filepath", "$file"],
+			"format_on_save": true,
+		},
+	]
+}

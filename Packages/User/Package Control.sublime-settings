@@ -6,12 +6,16 @@
 	"installed_packages":
 	[
 		"EclipseJavaFormatter",
+		"Fmt",
+		"Git",
+		"GitGutter",
 		"JavaIME",
 		"LSP",
 		"LSP-jdtls",
 		"LSP-typescript",
 		"Package Control",
 		"Reindent on save",
+		"SideBarEnhancements",
 		"Terminal",
 		"Theme - Monokai Pro",
 	],

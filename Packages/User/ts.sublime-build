@@ -1,0 +1,4 @@
+{
+	"shell_cmd": "tsx \"$file\"",
+	"selector": "source.ts"
+}
