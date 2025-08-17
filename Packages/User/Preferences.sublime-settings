@@ -4,9 +4,9 @@
 		"Vintage",
 	],
 	// theme
-	"theme": "Monokai Pro (Filter Spectrum).sublime-theme",
-	"color_scheme": "Monokai Pro (Filter Spectrum).sublime-color-scheme",
-	"font_size": 12,
+	"theme": "Default Dark.sublime-theme",
+	"color_scheme": "ayu-dark.sublime-color-scheme",
+	"font_size": 14,
 	"font_face": "JetBrains Mono",
 	// These settings control the size of the caret
 	"caret_extra_bottom": 0,
@@ -23,4 +23,13 @@
 	"index_files": true,
 	// auto save
 	"save_on_focus_lost": true,
+
+	// If enabled, will highlight any line with a caret
+	"highlight_line": true,
+
+	// Additional spacing at the top of each line, in pixels
+	"line_padding_top": 2,
+
+	// Additional spacing at the bottom of each line, in pixels
+	"line_padding_bottom": 2,
 }
